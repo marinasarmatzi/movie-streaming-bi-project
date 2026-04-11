@@ -6,7 +6,7 @@ An end-to-end BI project exploring 30+ years of cinematic data and the evolution
 ---
 
 ## 📺 Demo
-👉 [Watch the full dashboard demo](PASTE_YOUTUBE_LINK_HERE)
+👉 Watch the full dashboard demo here: https://youtu.be/E9o4EjOfrAk?si=ssNCrdDQRTW-a1K9
 
 ---
 
