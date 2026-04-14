@@ -225,6 +225,6 @@ Business-driven analytics
 ---
 
 👩‍💻 Author
-
+Marina Sarmatzi
 Senior BI Analyst
 Focus: Business Intelligence, Data Modeling, Advanced Analytics
