@@ -57,7 +57,6 @@ creating a unified analytical model.
 ## 🧠 Business Objectives
 - Identify the most profitable movies, genres, and franchises  
 - Evaluate ROI efficiency across the industry  
-- Analyze director and actor performance  
 - Compare streaming platforms (Netflix, Prime Video, Hulu, Disney+)  
 - Understand platform content strategy (genres, ratings, audience targeting)  
 
